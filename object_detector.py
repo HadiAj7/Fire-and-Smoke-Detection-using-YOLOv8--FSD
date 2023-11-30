@@ -38,7 +38,7 @@ def detect_objects_on_image(buf):
     :param buf: Input image file stream
     :return: Array of bounding boxes in format [[x1,y1,x2,y2,object_type,probability],..]
     """
-    model = YOLO("best_M.pt")
+    model = YOLO("best_S.pt")
     # Multiple streams with batched inference (i.e. batch-size 8 for 8 streams)
     source = 'path/to/list.streams'  # *.streams text file with one streaming address per row
     # Run inference on the source
