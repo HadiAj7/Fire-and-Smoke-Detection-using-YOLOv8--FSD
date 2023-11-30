@@ -8,12 +8,12 @@ Final Year project - API for handling fire and smoke detection
 </div>
 
 <div align="center">
-        <p>WebCam Demo</p>
-    <img src="https://github.com/HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD/blob/main/YOLOv8%20x%20test%20results.jpg?raw=true"/>
+    <p>WebCam Demo</p>
+    <img src="https://github.com/HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD/blob/main/Webcam%20%20Demo.png?raw=true"/>
 </div>
 
 <div align="center">
-        <p>YOLOv8x Test Results</p>
+    <p>YOLOv8x Test Results</p>
     <img src="https://github.com/HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD/blob/main/YOLOv8%20x%20test%20results.jpg?raw=true"/>
 </div>
 
