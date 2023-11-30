@@ -3,6 +3,10 @@ Final Year project - API for handling fire and smoke detection
 # Fire and Smoke Object Detector using YOLOv8 neural network
 
 <div align="center">
+    <img src="https://github.com/HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD/blob/main/Webpage%20%20Demo.png?raw=true"/>
+</div>
+
+<div align="center">
     <img src="https://github.com/HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD/blob/main/YOLOv8%20x%20test%20results.jpg?raw=true"/>
 </div>
 
