@@ -27,14 +27,18 @@ implemented on [Python](https://www.python.org) that uses a model to detect fire
 
 * Clone this repository: `git clone git@github.com:HadiAj7/Fire-and-Smoke-Detection-using-YOLOv8--FSD.git`
 * Go to the root of cloned repository
-* Install dependencies by running `pip3 install -r requirements.txt`
-
+* Install dependencies by running `pip3 install -r requirements.txt` (for webpage)
+* 
+* cd webcam detection
+* Install dependencies by running `pip3 install -r requirements.txt` (for webCam)
 ## Run
 
 Execute:
 
 ```
 python3 object_detector.py
+
+python3 webcam.py
 ```
 
 It will start a webserver on http://localhost:8080. Use any web browser to open the web interface.
