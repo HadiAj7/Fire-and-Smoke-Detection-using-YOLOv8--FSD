@@ -1,9 +1,6 @@
 # Fire-and-Smoke-Detection-using-YOLOv8--FSD
 Final Year project - API for handling fire and smoke detection 
-# Traffic Lights Object Detector using YOLOv8 neural network
-
-<div align="center">
-    <img src="# Traffic Lights Object Detector using YOLOv8 neural network
+# Fire and Smoke Object Detector using YOLOv8 neural network
 
 <div align="center">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mZ1E0vOa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2auv9i8405cgnxhru40.png"/>
