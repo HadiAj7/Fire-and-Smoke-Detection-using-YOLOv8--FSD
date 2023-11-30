@@ -36,7 +36,7 @@ implemented on [Python](https://www.python.org) that uses a model to detect fire
 Execute:
 
 ```
-python3 object_detector.py
+python3 Webpage_object_detector_API.py
 
 python3 webcam.py
 ```
